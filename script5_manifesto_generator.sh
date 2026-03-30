@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: BHALENDU SHRIVASTAVA| Reg No: 24MIP10169
+# Author: BHALENDU SHRIVASTAVA| Reg No: 24MIP10169 
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Interactively asks the user three questions
 #              and composes a personalised open-source
